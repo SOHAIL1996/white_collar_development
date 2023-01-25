@@ -12,3 +12,6 @@ Descriptions and links to useful websites
 - [Enhance resolution](https://bigjpg.com/)
 - [Remove background](https://www.adobe.com/express/feature/image/remove-background)
 - [Img generation](https://deepai.org/machine-learning-model/fantasy-world-generator)
+- [Img to PNG](https://image.online-convert.com/convert-to-png)
+- [PNG to SVG](https://image.online-convert.com/convert-to-svg)
+- [SVG to STL](https://svg2stl.com)
